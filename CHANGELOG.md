@@ -9,6 +9,7 @@ Padronização e melhorias de qualidade do código.
 - Refatoração de código para melhor legibilidade
 - Formatação de comentários seguindo padrões Python
 - Melhor estruturação do menu principal
+- Implementação da opção "Devolver Livro" no sistema
 
 ## v0.2.0
 
